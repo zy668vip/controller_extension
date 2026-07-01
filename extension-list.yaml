@@ -1,6 +1,6 @@
 
 # 自动模式开关
-autoMode: no
+autoMode: yes
 
 # 禁用列表 - 直接粘贴ID，每行一个
 disable:
