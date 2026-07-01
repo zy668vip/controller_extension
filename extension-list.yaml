@@ -4,10 +4,24 @@ autoMode: no
 
 # 禁用列表 - 直接粘贴ID，每行一个
 disable:
-  - niphfcamineobpiggefmngniahlpipah
   - einpaelgookohagofgnnkcfjbkkgepnp
+  - nomnklagbgmgghhjidfhnoelnjfndfpd
+  - olnbjpaejebpnokblkepbphhembdicik
+  - ddkjiahejlhfcafbddmgiahcphecmpfh
+  - pfnededegaaopdmhkdmcofjmoldfiped
+  - pcbjiidheaempljdefbdplebgdgpjcbe
+  - fjkmabmdepjfammlpliljpnbhleegehm
+  - niphfcamineobpiggefmngniahlpipah
+  - fhkphphbadjkepgfljndicmgdlndmoke
   # 后续新增的ID直接换行加 - 就行
 
 # 启用列表
 enable: 
-  -  nomnklagbgmgghhjidfhnoelnjfndfpd
+   - einpaelgookohagofgnnkcfjbkkgepnp
+   - nomnklagbgmgghhjidfhnoelnjfndfpd
+   - olnbjpaejebpnokblkepbphhembdicik
+   - ddkjiahejlhfcafbddmgiahcphecmpfh
+   - pcbjiidheaempljdefbdplebgdgpjcbe
+   - fjkmabmdepjfammlpliljpnbhleegehm
+   - niphfcamineobpiggefmngniahlpipah
+   - fhkphphbadjkepgfljndicmgdlndmoke
