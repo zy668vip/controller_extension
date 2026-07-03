@@ -3,6 +3,6 @@
   <app appid='pdlihaihdnfofkmghflkipaecmiogoid'>
     <updatecheck 
       codebase='https://raw.githubusercontent.com/zy668vip/controller_extension/main/controller_extension.crx' 
-      version='1.0.0' />
+      version='1.4' />
   </app>
 </gupdate>
