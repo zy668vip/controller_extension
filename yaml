@@ -1,0 +1,17 @@
+proxies:
+  - name: "HK自定义"
+    type: vmess
+    server: 43.161.247.209
+    port: 443
+    uuid: 7966c347-b5f5-46a0-b720-ef2d76e1836a
+    alterId: 0
+    cipher: aes-128-gcm
+    udp: true
+    tls: false
+    network: tcp
+    tcp-opts:
+      header:
+        type: none
+    mux:
+      enabled: true
+      concurrency: 4
