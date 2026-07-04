@@ -1,5 +1,5 @@
 proxies:
-  - name: "HK自定义"
+  - name: "HK不限流"
     type: vmess
     server: 43.161.247.209
     port: 443
