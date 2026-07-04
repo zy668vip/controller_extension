@@ -1,3 +1,9 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: info
+
 proxies:
   - name: "HK不限流"
     type: vmess
@@ -9,9 +15,14 @@ proxies:
     udp: true
     tls: false
     network: tcp
-    tcp-opts:
-      header:
-        type: none
-    mux:
-      enabled: true
-      concurrency: 4
+    # ... 其余你的节点内容
+
+proxy-groups:
+  - name: "PROXY"
+    type: select
+    proxies:
+      - "HK不限流"
+      - DIRECT
+
+rules:
+  - MATCH,PROXY
