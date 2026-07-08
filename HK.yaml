@@ -1,7 +1,7 @@
 proxies:
   - name: "HK不限流"
     type: vmess
-    server: 43.160.255.253
+    server: 43.161.246.244
     port: 443
     uuid: 7966c347-b5f5-46a0-b720-ef2d76e1836a
     alterId: 0
